@@ -36,6 +36,7 @@ public class PongPanel extends JPanel{
 		// Paddle 2
 		g.fillRect(990,int2Y,10,100);
 		// Ball
+		g.setColor(Color.red);
 		g.fillOval(intBallX, intBallY, 20,20);
 		
 		// Deflection
