@@ -1,3 +1,7 @@
+//My first swing animation game
+//Created By: Raymond Chan
+// Created on Dec 7
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
